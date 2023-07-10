@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/K-Bokka/cumo
+  revision: 1f13546966b36f978baad316bae86f71fad81ed5
+  branch: fix_for_ruby3.1
+  specs:
+    cumo (0.4.3)
+      numo-narray (>= 0.9.1.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    numo-narray (0.9.2.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  cumo!
+
+BUNDLED WITH
+   2.4.14
